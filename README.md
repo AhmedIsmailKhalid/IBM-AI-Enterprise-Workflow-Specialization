@@ -8,6 +8,6 @@ This six course specialization is designed to prepare you to take the certificat
 Throughout this specialization, the focus will be on the practice of data science in large, modern enterprises. You will be guided through the use of enterprise-class tools on the IBM Cloud, tools that you will use to create, deploy and test machine learning models. Your favorite open source tools, such a Jupyter notebooks and Python libraries will be used extensively for data preparation and building models. Models will be deployed on the IBM Cloud using IBM Watson tooling that works seamlessly with open source tools. After successfully completing this specialization, you will be ready to take the official IBM certification examination for the IBM AI Enterprise Workflow.
 
 
-<p style="text-align: center;">There are 6 Courses in this Specialization</p>
+# There are 6 Courses in this Specialization</p>
                                                              
 ## Course 1
